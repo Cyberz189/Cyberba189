@@ -1,7 +1,6 @@
 # Hello, I'm Bryan
 <a href="https://www.linkedin.com/in/bryan-almonte-3628802aa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
 
 I am a student of cybersecurity with a interest in technology and a dedication to solving complex problems.
 
@@ -52,5 +51,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Network Lab
+- SIEM Lab
