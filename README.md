@@ -15,7 +15,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Cyberz189/SIEM-Lab">SIEM Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Cyberz189/Network-Lab/edit/main/README.md">Network Lab</a>|
-| Active Directory                               | SOC Automation Lab|
+| Active Directory                               | <a href="https://github.com/Cyberz189/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
