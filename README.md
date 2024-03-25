@@ -53,3 +53,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ## Projects
 - Network Lab
 - SIEM Lab
+- Active Directory Lab
+- Snort Lab
+- Blog
