@@ -16,16 +16,15 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Cyberz189/SIEM-Lab">SIEM Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Cyberz189/Network-Lab/edit/main/README.md">Network Lab</a>|
 | Active Directory                               | <a href="https://github.com/Cyberz189/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Zeek Lab                                              | <a href="https://github.com/Cyberz189/Zeek-Lab/blob/main/README.md">Zeek Lab</a>|
 | Blog                                          |<a href="https://github.com/Cyberz189/Blog">Blog</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
    <img src="https://img.shields.io/badge/-nmap-777BB4?&style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
@@ -54,5 +53,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - Network Lab
 - SIEM Lab
 - Active Directory Lab
-- Snort Lab
+- Zeek Lab
 - Blog
