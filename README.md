@@ -26,13 +26,9 @@ My journey in Information Technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
    <img src="https://img.shields.io/badge/-nmap-777BB4?&style=for-the-badge&logo=nmap&logoColor=white" />
+     <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
@@ -50,8 +46,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 
 ## Projects
-- Network Lab
 - SIEM Lab
+- Network Lab
 - Active Directory Lab
 - Zeek Lab
 - Blog
