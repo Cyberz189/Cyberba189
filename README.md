@@ -17,7 +17,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Cyberz189/Network-Lab/edit/main/README.md">Network Lab</a>|
 | Active Directory                               | <a href="https://github.com/Cyberz189/Active-Directory-Lab/blob/main/README.md">Active Directory Lab</a>|
 | Zeek Lab                                              | <a href="https://github.com/Cyberz189/Zeek-Lab/blob/main/README.md">Zeek Lab</a>|
-| Blog                                          |<a href="https://github.com/Cyberz189/Blog">Blog</a>|
+| SQL Lab                                         |<a href="https://github.com/Cyberz189/SQL-Lab/blob/main/README.md">SQL Lab</a>|
 |       CSF Blog                                        |     <a href="https://github.com/Cyberz189/CSF-Blog">CSF Blog</a>|
 
 ### Network
