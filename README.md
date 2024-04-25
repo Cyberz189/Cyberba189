@@ -42,7 +42,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Azure--900-4D4D4D?&style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20User-006400?&style=for-the-badge&logo=Splunk&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
 ## Projects
 - SIEM Lab
