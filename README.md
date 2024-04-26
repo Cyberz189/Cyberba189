@@ -49,4 +49,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - Network Lab
 - Active Directory Lab
 - Zeek Lab
+- SQL Lab
 - Blog
